@@ -1,8 +1,11 @@
 # String Navigation: Teleportation without Spatial Disorientation
 
-Welcome to the **String Navigation** project — a lightweight VR system that enhances spatial orientation during teleportation by visualizing the traveled path and integrating a Mini-Map.
+A lightweight VR system that enhances spatial orientation during teleportation by visualizing the traveled path and integrating a Mini-Map.
 
 ## Project Overview
+
+![IMG_1876](https://github.com/user-attachments/assets/df81c87e-0dcd-4a7d-9a61-b8ae6c83b9b1)
+
 
 Teleportation in VR often causes **spatial disorientation** by eliminating intermediate visual feedback during movement.
 **String Navigation** addresses this by:
@@ -33,6 +36,10 @@ This project was implemented using **Godot 4.3**, targeting **Meta Quest 3** thr
 
 * **Show Mini-Map**: Perform a "C" shaped hand gesture (left controller)
 * **Show String Path**: Perform a "Point" gesture (left controller)
+
+  
+![sn_v1](https://github.com/user-attachments/assets/9cb2b48b-4a4a-4ffe-92d3-237b3f835667)
+![sn_v2](https://github.com/user-attachments/assets/312a3943-2480-44ca-a422-321a00037182)
 
 ## Setup Instructions
 
